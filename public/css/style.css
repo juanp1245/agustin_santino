@@ -475,10 +475,6 @@
 	.container { max-width: 1320px; }
 }
 
-@media (min-width: 1440px) {
-	.container-banner { max-width: 2000px !important; }
-}
-
 /* ----------------------------------------------------------------
 	Basic
 -----------------------------------------------------------------*/
@@ -3678,7 +3674,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 
 .slider-caption.slider-caption-center {
 	position: relative;
-	max-width: 1400px;
+	max-width: 800px;
 	text-align: center;
 	margin: 0 auto;
 	left: 0;
